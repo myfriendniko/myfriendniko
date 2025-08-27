@@ -12,7 +12,8 @@ I'm a **Data Scientist** and **Machine Learning Student** with a  foundation in 
 * **Databases:** PostgreSQL, MySQL
 
 
- 
+
+ ---
 
 <div align="center">
   
