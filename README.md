@@ -8,9 +8,8 @@ I'm a **Data Scientist** and **Machine Learning Student** with a  foundation in 
 
 * **Languages:** Python, Java
 * **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-* **Big Data:** Spark, Hadoop
-* **Web & APIs:** Flask, Spring Boot
-* **Databases:** PostgreSQL, MySQL, MongoDB
+* **Web & APIs:** Spring Boot
+* **Databases:** PostgreSQL, MySQL
 
 
  
